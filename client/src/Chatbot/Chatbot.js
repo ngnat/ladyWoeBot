@@ -174,7 +174,6 @@ function Chatbot(){
             return null
         }
     }
-    setTimeout(renderMessage,2000)
 
     
 
